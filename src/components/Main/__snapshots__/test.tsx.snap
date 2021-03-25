@@ -5,8 +5,5 @@ exports[`<Main /> should render the heading 1`] = `
   <h1>
     react avançado
   </h1>
-  <p>
-    ss
-  </p>
 </div>
 `
